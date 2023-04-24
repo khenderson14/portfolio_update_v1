@@ -55,7 +55,7 @@ a:hover {
   color: black
 }
 
-header #home-header {
+#home-header {
   text-align: center;
   background: url('images/Encinitas.png') no-repeat top center ;
   background-size: 2000px 500px ;
@@ -63,7 +63,7 @@ header #home-header {
   padding-top: 60px;
 }
 
-header #experience-header {
+#experience-header {
   text-align: center;
   background: url('images/sandiego.jpg') no-repeat top center ;
   background-size: 2000px 700px ;
